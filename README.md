@@ -3,6 +3,7 @@
 I2C controlled Arduino library designed for Blue Robotics' BlueESC and other tgy compatible ESCs
 
 # Documentation
+# minjoo would like to add her name here.
 
 Please see the examples for normal operation. Below are the available functions used in the library.
 
